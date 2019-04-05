@@ -1,0 +1,597 @@
+Thu Apr  4 11:34:39 CDT 2019
+Collatz v1.1
+range bound: 80000000
+threads: 1
+compute time: 15.6516 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 4
+compute time: 4.1492 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 8
+compute time: 2.3048 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 12
+compute time: 1.5730 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 16
+compute time: 1.3951 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 20
+compute time: 1.1342 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 24
+compute time: 0.9472 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 28
+compute time: 0.8434 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 32
+compute time: 0.7347 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 36
+compute time: 0.6889 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 40
+compute time: 0.6272 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 44
+compute time: 0.6894 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 48
+compute time: 0.5814 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 52
+compute time: 0.8089 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 56
+compute time: 0.7785 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 60
+compute time: 0.7749 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 64
+compute time: 0.8311 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 1
+compute time: 15.9371 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 4
+compute time: 4.3088 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 8
+compute time: 2.4168 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 12
+compute time: 1.6152 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 16
+compute time: 1.3948 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 20
+compute time: 1.1855 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 24
+compute time: 0.9996 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 28
+compute time: 0.8662 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 32
+compute time: 0.8147 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 36
+compute time: 0.7169 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 40
+compute time: 0.6376 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 44
+compute time: 0.6736 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 48
+compute time: 0.6521 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 52
+compute time: 0.7912 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 56
+compute time: 0.8056 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 60
+compute time: 0.7691 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 64
+compute time: 0.7751 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 1
+compute time: 15.9218 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 4
+compute time: 4.0611 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 8
+compute time: 2.2241 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 12
+compute time: 1.5228 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 16
+compute time: 1.3040 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 20
+compute time: 1.0978 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 24
+compute time: 0.9248 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 28
+compute time: 0.8066 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 32
+compute time: 0.7375 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 36
+compute time: 0.6405 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 40
+compute time: 0.7075 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 44
+compute time: 0.5509 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 48
+compute time: 0.6811 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 52
+compute time: 0.7454 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 56
+compute time: 0.8092 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 60
+compute time: 0.8718 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 64
+compute time: 0.8066 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 1
+compute time: 15.9022 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 4
+compute time: 5.2589 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 8
+compute time: 3.1580 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 12
+compute time: 2.3055 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 16
+compute time: 2.9452 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 20
+compute time: 2.4141 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 24
+compute time: 1.4106 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 28
+compute time: 1.7216 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 32
+compute time: 2.1410 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 36
+compute time: 1.7925 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 40
+compute time: 1.7749 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 44
+compute time: 1.7778 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 48
+compute time: 1.4545 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 52
+compute time: 1.4628 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 56
+compute time: 1.4406 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 60
+compute time: 1.5201 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 64
+compute time: 1.6580 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 1
+compute time: 15.9022 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 4
+compute time: 4.0544 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 8
+compute time: 2.2072 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 12
+compute time: 1.5016 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 16
+compute time: 1.1758 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 20
+compute time: 1.0209 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 24
+compute time: 0.8680 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 28
+compute time: 0.7719 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 32
+compute time: 0.6688 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 36
+compute time: 0.6207 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 40
+compute time: 0.5357 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 44
+compute time: 0.5123 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 48
+compute time: 0.5651 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 52
+compute time: 0.5724 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 56
+compute time: 0.4786 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 60
+compute time: 0.5715 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 64
+compute time: 0.5140 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 1
+compute time: 15.9016 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 4
+compute time: 4.0436 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 8
+compute time: 2.2052 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 12
+compute time: 1.4878 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 16
+compute time: 1.1723 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 20
+compute time: 0.9807 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 24
+compute time: 0.8760 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 28
+compute time: 0.7514 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 32
+compute time: 0.6950 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 36
+compute time: 0.5916 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 40
+compute time: 0.6326 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 44
+compute time: 0.5073 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 48
+compute time: 0.5870 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 52
+compute time: 0.4872 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 56
+compute time: 0.5450 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 60
+compute time: 0.5032 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 64
+compute time: 0.5783 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 1
+compute time: 15.8873 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 4
+compute time: 4.0390 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 8
+compute time: 2.1942 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 12
+compute time: 1.4918 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 16
+compute time: 1.1340 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 20
+compute time: 1.0038 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 24
+compute time: 0.8633 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 28
+compute time: 0.7624 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 32
+compute time: 0.6433 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 36
+compute time: 0.6065 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 40
+compute time: 0.5448 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 44
+compute time: 0.5897 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 48
+compute time: 0.5115 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 52
+compute time: 0.5519 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 56
+compute time: 0.4726 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 60
+compute time: 0.4978 s
+longest sequence: 950 elements
+Collatz v1.1
+range bound: 80000000
+threads: 64
+compute time: 0.5111 s
+longest sequence: 950 elements
+Thu Apr  4 11:38:57 CDT 2019
