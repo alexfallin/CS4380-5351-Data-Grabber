@@ -13,6 +13,7 @@ line.strip()
 
 rows = 0
 thread_indicator = 0
+data = []
 
 while line != "":
 
@@ -24,34 +25,15 @@ while line != "":
             thread_indicator =-1
         else:
             rows += 1
-
-    line = readFile.readline()
-    line.strip()
-
-readFile.close()
-
-data = []
-
-counter = 0
-columns = 0
-
-readFile = open(sys.argv[1], 'r')
-
-line = readFile.readline()
-line.strip()
-
-while line != "":
-
-    if line[:12] == "compute time":
+    elif line[:12] == "compute time":
         data.append(line[14:-3])
-        counter += 1
-        if counter % rows == 0:
-            columns += 1
 
     line = readFile.readline()
     line.strip()
 
 readFile.close()
+
+columns = len(data) / rows
 
 transposeData = [[0 for column in range(columns)] for row in range(rows)]
 dataItem = 0
