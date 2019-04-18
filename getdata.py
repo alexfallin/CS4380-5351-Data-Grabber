@@ -33,6 +33,9 @@ while line != "":
 
 readFile.close()
 
+if rows == 0:
+	rows = 1
+
 columns = len(data) / rows
 
 transposeData = [[0 for column in range(columns)] for row in range(rows)]
